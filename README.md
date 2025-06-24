@@ -51,7 +51,16 @@
 
 ## 📊 GitHub Stats
 
-[![varma-101's GitHub stats](https://github-readme-stats.vercel.app/api?username=varma-101&show_icons=true&theme=github_dark&count_private=true)](https://github.com/varma-101)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varma-101&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varma-101&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
