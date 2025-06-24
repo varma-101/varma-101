@@ -21,13 +21,11 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Language |
-|--------|-------------|----------|
-| [Zerodha](https://github.com/varma-101/Zerodha) | 🔧 Stock trading interface clone | JavaScript |
-| [AluMinds](https://github.com/varma-101/AluMinds) | 🚀 Working prototype from SIH-FINALE 2024 | JavaScript :contentReference[oaicite:2]{index=2} |
-| [Antique‑Films](https://github.com/varma-101/Antique-Films) | 🎨 Design-focused film gallery page | CSS |
-| [portfolio](https://github.com/varma-101/portfolio) | 💼 Personal portfolio website | HTML |
-| [spotify‑homepage‑clone](https://github.com/varma-101/spotify-homepage-clone) | 🎵 Spotify landing page recreation | HTML |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [AluMinds](https://github.com/varma-101/AluMinds) | 🚀 A smart alumni-student mentoring platform. This was our standout project and helped us secure **Runner-Up at SIH National Finals**. | MERN |
+| [Auralytics](https://github.com/varma-101/Auralytics) | 📊 A finance analytics dashboard offering insights on stocks, crypto, and more — built for real-world usage. | React, Express, MongoDB |
+
 
 ---
 
