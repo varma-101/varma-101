@@ -15,13 +15,16 @@
 
 ---
 
-## 📈 Activity Overview
+## 📈 GitHub Activity Overview
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=varma-101&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<!-- GitHub Streaks -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=varma-101&theme=dark&hide_border=true)](https://github.com/varma-101)
 
-[![varma-101's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=varma-101&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Contribution Graph (uses a different generator) -->
+[![varma-101's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varma-101&theme=github-compact&hide_border=true)](https://github.com/varma-101)
 
 ---
+
 
 ## 🛠️ Technical Skills
 
