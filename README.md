@@ -15,6 +15,14 @@
 
 ---
 
+## 📈 Activity Overview
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=varma-101&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![varma-101's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=varma-101&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 🧑‍💻 Languages & Frameworks
