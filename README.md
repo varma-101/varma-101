@@ -67,7 +67,7 @@
 
 - 📧 Email: vngopalvarma.sagi@gmail.com  |  varmasagi101@gmail.com
 - 🌐 [GitHub](https://github.com/varma-101)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/varma-sagi-89a024253/) *(update with actual URL)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/varma-sagi-89a024253/)
 
 ---
 
