@@ -94,3 +94,7 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=100&section=footer" alt="footer"/>
+
