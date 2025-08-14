@@ -70,7 +70,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: vngopalvarma.sagi@gmail.com  |  varmasagi101@gmail.com
+- 📧 Email:  varmasagi101@gmail.com  | vngopalvarma.sagi@gmail.com
 - 🌐 [GitHub](https://github.com/varma-101)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/varma-sagi-89a024253/)
 
