@@ -52,13 +52,16 @@
 ## 📊 GitHub Stats
 
 [![varma-101's GitHub stats](https://github-readme-stats.vercel.app/api?username=varma-101&show_icons=true&theme=github_dark&count_private=true)](https://github.com/varma-101)
+![GitHub Streak](https://streak-stats.demolab.com/?user=varma-101&theme=radical&hide_border=true)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varma-101&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varma-101&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" /> </td>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=varma-101&theme=github-compact&hide_border=true" alt="Activity Graph" /></td>
   </tr>
 </table>
+
+
 
 ---
 
